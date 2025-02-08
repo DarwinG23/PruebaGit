@@ -2,3 +2,5 @@
 virtual/Lib/site-packages/pip-24.0.dist-info/AUTHORS.txt
 
 *.txt
+
+virtual/
